@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+.env
+data/*.txt
+!data/tiny_corpus.txt
+artifacts/
+checkpoints/
+*.pt
+*.pth
+.DS_Store

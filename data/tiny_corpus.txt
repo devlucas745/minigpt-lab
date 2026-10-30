@@ -1,0 +1,6 @@
+In a small laboratory, a language model learns patterns from text.
+The model reads tokens and predicts the next token one step at a time.
+A transformer uses attention to combine information from earlier positions.
+A careful experiment records the dataset, random seed, configuration, and metrics.
+A small model can teach us about training, inference, evaluation, and limitations.
+Machine learning is empirical: we measure results instead of assuming success.
